@@ -2,7 +2,7 @@
 ---
 
 ## 📌 **Task 2 – Customer Churn Prediction Pipeline**
-```markdown
+
 # 📞 Customer Churn Prediction – End-to-End ML Pipeline
 
 ## 📍 Objective
@@ -47,5 +47,3 @@ Pipeline includes preprocessing, model training, hyperparameter tuning, and expo
 - **Best model selected via GridSearch**  
 - Achieved **Accuracy ~80–85%**  
 - Macro **F1-score ~0.78–0.82**  
-
----
